@@ -1,0 +1,11 @@
+{
+  "posts": [
+    { "id": 1, "title": "Hello World", "author": "Sahil" },
+    { "id": 2, "title": "Learning Angular", "author": "Sahil" }
+  ],
+  "comments": [
+    { "id": 1, "body": "Nice post!", "postId": 1 },
+    { "id": 2, "body": "Very informative!", "postId": 2 }
+  ],
+  "profile": { "name": "Sahil" }
+}
